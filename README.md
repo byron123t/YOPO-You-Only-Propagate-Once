@@ -1,5 +1,6 @@
 # Rearchitecting Classification Frameworks For Increased Robustness (YOPO Fork)
 YOPO adversarial training experiments: [Brian Tang](https://byron123t.github.io/) and [Kassem Fawaz](https://kassemfawaz.com/)
+
 [Varun Chandrasekaran](http://pages.cs.wisc.edu/~chandrasekaran/), [Brian Tang](https://byron123t.github.io/), [Nicholas Papernot](https://www.papernot.fr/), [Kassem Fawaz](https://kassemfawaz.com/), [Somesh Jha](http://pages.cs.wisc.edu/~jha/), [Xi Wu](http://andrewxiwu.github.io/)
 
 Sample code for our paper, "Rearchitecting Classification Frameworks For Increased Robustness" [arXiv](https://arxiv.org/abs/1905.10900)
