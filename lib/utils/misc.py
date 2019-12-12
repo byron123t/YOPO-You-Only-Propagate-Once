@@ -85,7 +85,7 @@ def save_checkpoint(now_epoch, net, optimizer, lr_scheduler, file_name):
 def load_checkpoint(file_name, net = None, optimizer = None, lr_scheduler = None):
     if os.path.isfile(file_name):
         print("=> loading checkpoint '{}'".format(file_name))
-        check_point = torch.load(file_name)
+        check_point = torch.load(file_name, map_location={'cuda:1':'cuda:0','cuda:4':'cuda:0','cuda:3':'cuda:0'})
         if net is not None:
             print('Loading network state dict')
             net.load_state_dict(check_point['state_dict'])

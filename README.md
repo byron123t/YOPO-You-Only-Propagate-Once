@@ -1,7 +1,8 @@
-# YOPO (You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle)
-Code for our  [paper](https://arxiv.org/abs/1905.00877): "You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle" by [Dinghuai Zhang](https://zdhnarsil.github.io), [Tianyuan Zhang](http://tianyuanzhang.com), [Yiping Lu](https://web.stanford.edu/~yplu/), [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/), [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/).
+# YOPO (Rearchitecting Classification Frameworks For Increased Robustness Fork)
+YOPO adversarial training experiments: [Brian Tang](https://byron123t.github.io/) and [Kassem Fawaz](https://kassemfawaz.com/)
+In collaboration with: [Varun Chandrasekaran](http://pages.cs.wisc.edu/~chandrasekaran/), [Nicholas Papernot](https://www.papernot.fr/), [Somesh Jha](http://pages.cs.wisc.edu/~jha/), [Xi Wu](http://andrewxiwu.github.io/)
 
-Our paper has been accepted by **NeurIPS2019**.
+Sample code for our paper, "Rearchitecting Classification Frameworks For Increased Robustness" [arXiv]()
 
 ![The Pipeline of YOPO](/images/pipeline.jpg)
 
